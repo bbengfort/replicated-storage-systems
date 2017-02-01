@@ -1,0 +1,27 @@
+{
+    "title": "Replicated Storage Systems",
+    "description": "A primer on the design and development of replicated distributed storage systems written in the Go programming language.",
+    "author": "Benjamin Bengfort",
+    "language": "en",
+    "pdf": {
+        "pageNumbers": true,
+        "paperSize": "letter"
+    },
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
+    }
+}

@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [The Design of Replicas](chapter-01-the-design-of-replicas.md)
